@@ -3,5 +3,9 @@ h1{
 }
 article{
     padding:10;
+ 
+}
+section{
     background-color: #354BF7;
+    padding-left: 300;
 }
