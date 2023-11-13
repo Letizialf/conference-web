@@ -1,8 +1,7 @@
 h1{
     font-family: 'Roboto', sans-serif;
-    font-size: larger;
 }
-p{
-    background-color:#354BF7 ;
-    
+article{
+    padding:10;
+    background-color: #354BF7;
 }
